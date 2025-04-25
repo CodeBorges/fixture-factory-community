@@ -180,21 +180,17 @@ You can see more utilization on [tests](https://github.com/six2six/fixture-facto
 
 ## Contributing
 
-Want to contribute with code, documentation or bug report?
 
-Do it by [joining the mailing list](http://groups.google.com/group/fixture-factory) on Google Groups.
 
 ## Credits
 
-Fixture-Factory was written by:
+# Fixture Factory (Maintained by [João Victor Borges])
 
-* [Anderson Parra](https://github.com/aparra)
-* [Arthur Hirata](https://github.com/ahirata)
-* [Douglas Rodrigo](https://github.com/douglasrodrigo)
+This project is an **unofficial continuation** of the original repository [six2six/fixture-factory](https://github.com/six2six/fixture-factory), which has been **inactive** for over 4 years.
 
-with contributions from several authors, including:
+All credit for the original creation goes to [six2six](https://github.com/six2six) and the developers listed in the original repository.
 
-* [Nykolas Lima](https://github.com/nykolaslima)
+The goal of this fork is to update dependencies, fix vulnerabilities, and keep the project alive for the community.
 
 ## License
 
