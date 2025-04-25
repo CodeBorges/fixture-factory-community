@@ -184,7 +184,7 @@ You can see more utilization on [tests](https://github.com/six2six/fixture-facto
 
 ## Credits
 
-## Fixture Factory (Maintained by [João Victor Borges])
+Fixture Factory (Maintained by [João Victor Borges])
 
 This project is an **unofficial continuation** of the original repository [six2six/fixture-factory](https://github.com/six2six/fixture-factory), which has been **inactive** for over 4 years.
 
